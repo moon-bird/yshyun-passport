@@ -1,0 +1,18 @@
+{
+    "name": "yshyun/passport",
+    "description": "yshyun passport sdk",
+    "keywords": ["yshyun", "passport", "sdk"],
+    "homepage": "https://github.com/moon-bird/yshyun-passport",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaopeng.wang",
+            "email": "wangxiao@yunshangyun.com",
+            "homepage": "http://moonbird.yunshangyun.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
